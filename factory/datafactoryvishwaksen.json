@@ -1,0 +1,15 @@
+{
+	"name": "datafactoryvishwaksen",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1f18b8d0-e507-4fc6-bf77-a21e78fc28a4",
+		"tenantId": "4355981c-1c07-48a7-acc5-e4462692f4a8"
+	}
+}
